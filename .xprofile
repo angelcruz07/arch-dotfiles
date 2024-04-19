@@ -15,10 +15,10 @@ fi
 picom &
 
 #Wallpapers
-# feh --bg-scale .Wallpapers/minimal.png &
-feh --bg-scale .Wallpapers/ocean.png &
-# feh --bg-scale .Wallpapers/forest.jpg &
-# feh --bg-scale .Wallpapers/forestnight.png &
+# feh --bg-scale .wallpapers/minimal.png &
+feh --bg-scale .wallpapers/ocean.png &
+# feh --bg-scale .wallpapers/forest.jpg &
+# feh --bg-scale .wallpapers/forestnight.png &
 
 # Icon wifi
 nm-applet &

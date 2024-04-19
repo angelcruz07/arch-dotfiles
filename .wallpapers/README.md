@@ -1,18 +1,18 @@
 # Images
 
 - Minimal
-  ![Minimal](./img/minimal.png)
+  ![Minimal](./minimal.png)
 - Ocean
-  ![Ocean](./img/ocean.png)
+  ![Ocean](./ocean.png)
 - Dracula
-  ![Dracula](./img/dracula.png)
+  ![Dracula](./dracula.png)
 - Forest
-  ![Forest](./img/forest.jpg)
+  ![Forest](./forest.jpg)
 - Forest Night
-  ![Forest Night](./img/forestnight.png)
+  ![Forest Night](./forestnight.png)
 - Rog
-  ![Rog](./img/rog.jpg)
+  ![Rog](./rog.jpg)
 - Asus Rog
-  ![Asus Rog](./img/asusrog.png)
+  ![Asus Rog](./asusrog.png)
 - Asus
-  ![Asus](./img/asus.jpg)
+  ![Asus](./asus.jpg)
